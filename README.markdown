@@ -12,7 +12,7 @@ A full-stack blog application built with Python and Flask, featuring user authen
 - **🗄️ Database Relationships**: Seamless Users ↔ Posts ↔ Comments integration.
 - **⚡ CRUD Operations**: Full Create, Read, Update, Delete functionality.
 - **🌐 Live Deployment**: Hosted on Render for anytime access.
-- **[👉 Live Demo](https://your-blog-website.onrender.com/)**: Explore the live app!
+- **[👉 Live Demo](https://blog-website-j678.onrender.com/)**: Explore the live app!
 
 ## 🛠️ Tech Stack
 
@@ -86,8 +86,8 @@ We welcome contributions! To contribute:
 ## 👤 Author
 
 **Vaibhav**  
-[LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+[LinkedIn](https://www.linkedin.com/in/vaibhav-vaibhav/)
 
 ## ⭐ Support
 
-If you find this project useful, please give it a star on [GitHub](https://github.com/your-username/flask-blog-website)! Your support helps keep the project alive.
+If you find this project useful, please give it a star on [GitHub](https://github.com/vaibhav-vai/Blog_Website)! Your support helps keep the project alive.
